@@ -1,0 +1,3 @@
+A CubeSat is a miniaturized satellite for space research that typically has sides of length, L = 10 cm. Assumptions: negligible heat generation in a CubeSat and steady state operation.
+For this CubeSat, if the temperature of the front face exposed to the Sun follows the expression 50 + [25∙sin(πx/L)∙sin(πy/L)] in degree C, if the temperature of the top face is 80 degree C, and if the temperature of the right face follows the expression 50 + [5∙sin(πy/L)∙sin(πz/L)] in degree C, an expression is developed for the temperature distribution T(x,y,z) in the CubeSat and plotted it using MATLAB.
+Assumptions: negligible heat generation in a CubeSat and steady state operation, temperature on the remaining three faces as 50 degree C.
